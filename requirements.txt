@@ -1,0 +1,10 @@
+# Dependências diretas do notebook de previsão (01_previsao_cheias_preparacao_modelo.ipynb).
+# Sem versões fixas: o código usa apenas APIs estáveis e instala com qualquer versão recente.
+numpy
+pandas
+scikit-learn
+matplotlib
+
+# Necessário para executar o notebook
+jupyter
+ipykernel
